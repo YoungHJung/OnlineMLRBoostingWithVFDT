@@ -1,4 +1,4 @@
-# Online Multiclass Boosting
+# Online Multi-label Ranking Boosting
 A Python implementation of online multi-label ranking boosting using VFDT as weak learners. 
 
 The algorithms are described and theoretically analayzed in the following work. 
