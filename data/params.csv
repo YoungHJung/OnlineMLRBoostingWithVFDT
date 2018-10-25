@@ -1,0 +1,6 @@
+loss,logistic
+data_source,emotions
+num_wls,10
+num_covs,20
+M,100
+gamma,0.1
